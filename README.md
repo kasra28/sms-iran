@@ -1,6 +1,6 @@
 simple SMS spammer work for iranian number
 --------
-made by <kasra akhvan>
+made by kasra akhvan
 
 
 # usage
