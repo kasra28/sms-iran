@@ -24,7 +24,6 @@ def banner():
 
 def spam():
     try:
-        rer = ':'
         phone = input(bcolors.GREEN + "enter target phone number\n<example>: 912*******\n<enter>: ")
         count = input(bcolors.GREEN + "enter spam count: ")
         data ={"cellphone": phone}
